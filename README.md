@@ -12,3 +12,6 @@ https://lernantino.github.io/run-buddy/
 
 ## Conclusion
 Made with ❤️ by Jonathan Saunders.
+
+###
+©️2019 Run Buddy, Inc
